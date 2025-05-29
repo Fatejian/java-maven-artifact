@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/jhuang87/.m2/repository/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/project/demo/java/d-maven-project/src/main/java;C:/project/demo/java/d-maven-project/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/project/demo/java/d-maven-project/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'hello 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/project/demo/java/d-maven-project/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'hello 1.0-SNAPSHOT API'
+com.itranswarp.learnjava
+C:\Users\jhuang87\.m2\repository\org\slf4j\slf4j-api\1.7.28\slf4j-api-1.7.28.jar = 1748424740338
+C:\project\demo\java\d-maven-project\src\main\java = 1748489481633
+C:\project\demo\java\d-maven-project\target\generated-sources\annotations = 1748492028618
+C:\project\demo\java\d-maven-project\target\reports\apidocs\allclasses-index.html = 1748492034120
+C:\project\demo\java\d-maven-project\target\reports\apidocs\allpackages-index.html = 1748492034140
+C:\project\demo\java\d-maven-project\target\reports\apidocs\element-list = 1748492034040
+C:\project\demo\java\d-maven-project\target\reports\apidocs\help-doc.html = 1748492034195
+C:\project\demo\java\d-maven-project\target\reports\apidocs\index-all.html = 1748492034180
+C:\project\demo\java\d-maven-project\target\reports\apidocs\index.html = 1748492034186
+C:\project\demo\java\d-maven-project\target\reports\apidocs\jquery-ui.overrides.css = 1748492034263
+C:\project\demo\java\d-maven-project\target\reports\apidocs\member-search-index.js = 1748492034162
+C:\project\demo\java\d-maven-project\target\reports\apidocs\module-search-index.js = 1748492034146
+C:\project\demo\java\d-maven-project\target\reports\apidocs\overview-tree.html = 1748492034105
+C:\project\demo\java\d-maven-project\target\reports\apidocs\package-search-index.js = 1748492034152
+C:\project\demo\java\d-maven-project\target\reports\apidocs\script.js = 1748492034211
+C:\project\demo\java\d-maven-project\target\reports\apidocs\search.js = 1748492034218
+C:\project\demo\java\d-maven-project\target\reports\apidocs\stylesheet.css = 1748492034203
+C:\project\demo\java\d-maven-project\target\reports\apidocs\tag-search-index.js = 1748492034168
+C:\project\demo\java\d-maven-project\target\reports\apidocs\type-search-index.js = 1748492034157
